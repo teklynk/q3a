@@ -2,10 +2,13 @@
 
 Clients need to enable "Allow Downloads" either from the Game options menu or from the console: \cl_allowDownload "1"
 
+
 ### server.cfg
 
 seta sv_allowDownload "1"
+
 seta sv_dlURL "https://github.com/teklynk/q3a/raw/master"
+
 
 ### custom.cfg
 
